@@ -21,4 +21,4 @@ The bot may use third-party APIs (e.g., Discord API). These services have their 
 We may update this policy. Continued use of the Bot means you accept the changes.  
 
 ## 6. Contact  
-For questions, contact us at: [rickaliendeveloper@gmail.com or [Discord-сервер](https://discord.gg/E3MdtkH2)]  
+For questions, contact us at: [rickaliendeveloper@gmail.com or (https://discord.gg/6Jcfkcq4J8)]  
